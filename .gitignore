@@ -1,0 +1,12 @@
+.secrets/
+*.key
+*.pem
+.env
+data/
+state/
+logs/
+models/
+__pycache__/
+*.py[cod]
+.DS_Store
+__MACOSX/
